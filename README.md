@@ -1,6 +1,6 @@
 
 
-**👋 Hi, I'm Muhammad Awais**
+****👋 Hi, I'm Muhammad Awais**
 
 **💻 Software Engineer | Java · Kotlin · JavaScript · SQL**
 
@@ -8,6 +8,6 @@
 
 **🔍 Currently exploring React and expanding into full-stack development. Always learning, always building.**
 
-**📫 Let's connect and build something together!**
+**📫 Let's connect and build something together!****
 
 ---
